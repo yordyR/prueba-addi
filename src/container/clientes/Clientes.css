@@ -1,0 +1,61 @@
+.bloque-contenedor{
+    border: 1px solid #ededed;
+    box-shadow: 0px 0px 20px 2px #eaeaea;
+    margin-bottom: 30px;
+    margin-top: 1rem;
+    background: white;
+}
+.table-list table{
+    width: 100%;
+    text-align: left;
+    border-radius: 2px 2px 0 0;
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+.table-head > tr, .table-body > tr > td {
+    padding: 10px 8px !important;
+}
+.table-list tr {
+    box-shadow: 0 0 3px #e5e5e5;
+}
+.table-list .table-head > tr > th {
+    background-color: rgba(255, 255, 255, 0.85) !important;
+    border-bottom: 2px solid #dee2e6 !important;
+    cursor: pointer;
+    transition: all 0.3s;
+    align-items: center;
+    padding: 16px 16px;
+}
+.table-head > tr, .table-body > tr > td{
+    padding: 10px 8px !important;
+}
+
+.btn-validacion {
+    background-color: #158215;
+    padding: .3rem .3rem;
+    color: white;
+    border: 1px solid green;
+    border-radius: 5px
+}
+
+.modal-alert--success{
+    background: hsl(127deg 83% 33% / 51%);
+}
+.modal{
+
+    margin: 1rem 0;
+    padding: .5rem;
+}
+.modal p{
+    font-size: 1.2rem;
+    margin: 0 !important;
+    color: white;
+}
+.modal-alert--process{
+    background: hsl(33deg 98% 59%);
+}
+
+.modal-alert--danger{
+    background: hsl(11deg 100% 42% / 84%);
+}

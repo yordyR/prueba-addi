@@ -1,0 +1,44 @@
+.bg-white {
+    background-color: #fff;
+}
+.breadcrumb {
+    padding: 0;
+}
+
+.breadcrumb {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding: .75rem 1rem;
+    margin-bottom: 1rem;
+    list-style: none;
+    background-color: #fff;
+    border-radius: .25rem;
+    margin-right: 1rem;
+}
+.breadcrumb-item+.breadcrumb-item::before {
+    float: left;
+    padding-right: .5rem;
+    color: #6c757d;
+    content: "/";
+}
+.breadcrumb-item+.breadcrumb-item {
+    padding-left: .5rem;
+}
+.breadcrumb-item.active {
+    color: #6c757d;
+}
+.crms-title {
+    margin: 0;
+    padding: 10px;
+    display: flex;
+}
+.crm-breadcrumb--right{
+    display: flex;
+    margin-right: 0;
+    margin-left: auto;
+}
+.crms-title .breadcrumb {
+    padding-top: 5px;
+}

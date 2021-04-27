@@ -1,0 +1,92 @@
+{
+  "clientesPotenciales": [
+    {
+      "identificacion": "1144170995",
+      "nombre": "Yordy",
+      "apellido": "Riascos",
+      "correo": "yordi.riasco@addi.com",
+      "fechaNacimiento": "10-08-20",
+      "estado": false,
+      "puntaje": 71,
+      "id": "1"
+    },
+    {
+      "identificacion": "4341144170995",
+      "nombre": "Yordy",
+      "apellido": "Riascos",
+      "correo": "yordi.riasco@addi.com",
+      "fechaNacimiento": "10-08-20",
+      "estado": false,
+      "puntaje": 71,
+      "id": "2"
+    },
+    {
+      "identificacion": "451144170995",
+      "nombre": "Yordy",
+      "apellido": "Riascos",
+      "correo": "yordi.riasco@addi.com",
+      "fechaNacimiento": "10-08-20",
+      "estado": false,
+      "puntaje": 67,
+      "id": "3"
+    },
+    {
+      "identificacion": "5471144170995",
+      "nombre": "Yordy",
+      "apellido": "Riascos",
+      "correo": "yordi.riasco@addi.com",
+      "fechaNacimiento": "10-08-20",
+      "estado": false,
+      "puntaje": 51,
+      "id": "4"
+    },
+    {
+      "identificacion": "43431441795",
+      "nombre": "Yordy",
+      "apellido": "Riascos",
+      "correo": "yordi.riasco@addi.com",
+      "fechaNacimiento": "10-08-20",
+      "estado": false,
+      "puntaje": 80,
+      "id": "5"
+    }
+  ],
+  "sistemaDeIdentificacion": [
+    {
+      "identificacion": "1144170995",
+      "nombre": "Yordy",
+      "apellido": "Riascos",
+      "correo": "yordi.riasco@addi.com",
+      "fechaNacimiento": "10-08-20",
+      "id": "1"
+    },
+    {
+      "identificacion": "4341144170995",
+      "nombre": "Yordy",
+      "apellido": "Riascos",
+      "correo": "yordi.riasco@addi.com",
+      "fechaNacimiento": "10-08-20",
+      "id": "2"
+    },
+    {
+      "identificacion": "451144170995",
+      "nombre": "Yordy",
+      "apellido": "Riascos",
+      "correo": "yordi.riasco@addi.com",
+      "fechaNacimiento": "10-08-20",
+      "id": "3"
+    }
+  ],
+  "sistemaDeAntecedentes": [
+    {
+      "identificacion": "1144170995",
+      "Antecedentes": "La persona no cuenta con antecedentes judiciales",
+      "response": false
+    },
+    {
+      "identificacion": "651144170995",
+      "Antecedentes": "La persona cuenta con antecedentes judiciales",
+      "response": true
+    }
+  ]
+}

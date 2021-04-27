@@ -1,0 +1,10 @@
+.page-wrapper {
+    left: 0;
+    margin-left: 230px;
+    padding-top: 50px;
+    position: relative;
+    transition: all 0.2s ease-in-out;
+}
+.page-wrapper>.content {
+    padding: 30px;
+}
